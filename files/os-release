@@ -1,0 +1,11 @@
+NAME=RUOS
+PRETTY_NAME=RUOS
+ID=ruos
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL=https://github.com/neurxez/ruos
+DOCUMENTATION_URL=https://github.com/neurxez/ruos
+SUPPORT_URL=https://github.com/neurxez/ruos
+BUG_REPORT_URL=https://github.com/neurxez/ruos
+PRIVACY_POLICY_URL=https://github.com/neurxez/ruos
+LOGO=archlinux-logo
